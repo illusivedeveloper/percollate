@@ -1,5 +1,5 @@
 # percollate
-Percollate image
+Percollate image [Ubuntu]
 
 This repository contains a working image of percollate tool [Percollate](https://github.com/danburzo/percollate). Percollate is: A command-line tool to turn web pages into beautifully formatted PDFs. This image solves the problems associated with installing and maintaining various NodeJs modules and dependencies and provides an executable, portable and isolated environment for percollate and enables 1-click docker deployment. This image is based on ubuntu 18.04 with node version v12.13.0 and npm version 6.12.0. The NodeJs is installed through nvm version 0.34.0 script. The instructions to run this image are as follows:
 
